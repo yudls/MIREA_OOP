@@ -1,0 +1,3 @@
+/Users/chuckpalahniuk/Projects/cpp2022/kursach/3_1_1/build/CMakeFiles/OOP_3_1_1.dir
+/Users/chuckpalahniuk/Projects/cpp2022/kursach/3_1_1/build/CMakeFiles/edit_cache.dir
+/Users/chuckpalahniuk/Projects/cpp2022/kursach/3_1_1/build/CMakeFiles/rebuild_cache.dir
